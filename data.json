@@ -1,0 +1,22 @@
+{
+  "customers":[
+    {
+    "id":"111",
+    "fName": "Derek",
+    "lName": "Doughty",
+    "email": "Derek@csaa.com"
+    },
+    {
+    "id":"222",
+    "fName": "Scott",
+    "lName": "Brau",
+    "email": "Scott@csaa.com"
+    },
+    {
+    "id":"333",
+    "fName": "Jon",
+    "lName": "Hirsch",
+    "email": "Jon@csaa.com"
+    }
+  ]
+}
